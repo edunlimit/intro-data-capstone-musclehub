@@ -1,0 +1,2 @@
+# Musclehub Fictional Company A/B Test
+Using Jupyter Notebook, Python: Matplotlib, Pandas, Scipy, and SQL, ran A/B test to see if more people will purchase membership of the company after changing application process. After selecting, extracting, transforming, and integrating data, statistical test was performed to ensure which option to choose. Also, created a presentation to explain to the company. 
